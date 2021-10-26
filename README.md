@@ -19,8 +19,3 @@
 ##*Dozent*:
 
 Prof.Dr.Arif Wider
-
-Heroku Acc:
-
-s0578897@htw-berlin.de
-pw: ,6^$m@<w7SHaMn%
